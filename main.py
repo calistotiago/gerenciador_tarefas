@@ -36,3 +36,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+print("Site de Humor do inicio da internet brasileira.")
